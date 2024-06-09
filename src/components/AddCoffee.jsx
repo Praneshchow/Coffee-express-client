@@ -48,7 +48,7 @@ const AddCoffee = () => {
                 <div className="md:flex mb-8">
                     <div className="form-control md:w-1/2">
                         <div className="label">
-                            <span className="label-text">Name</span>
+                            <span className="label-text">Coffee Name</span>
                         </div>
                         <input type="text" name="name" placeholder="Coffee Name" className="input input-bordered w-full " />
                     </div>
